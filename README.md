@@ -1,4 +1,4 @@
-# Bharat-Inten-Repository
+# Bharat-Intern-Repository
 
 # Task-1
 ## Problem Statement :

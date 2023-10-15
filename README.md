@@ -30,4 +30,4 @@ This dataset can be used for a variety of purposes, such as:
 * Building predictive models to forecast Google's future stock prices.
 * Developing trading strategies to profit from the movement of Google's stock prices.
 
-The dataset is available in CSV format and can be downloaded from [link to dataset].
+The dataset is available in CSV format and can be downloaded from [Kaggle](https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction/).

@@ -2,7 +2,7 @@
 
 # Task 1 - Stock Price Prediction
 ## Problem Statement : To predict the Stock Price of a Company using LSTM.
-### About the dataset:
+### About Dataset:
 The Google stock dataset contains historical data of Google's stock prices and related attributes. It consists of 14 columns and 1257 rows. Each column represents a specific attribute, and each row contains the corresponding values for that attribute.
 
 The columns in the dataset are as follows:
@@ -33,22 +33,25 @@ Solution: https://github.com/Premrufus/BharatIntenRepo/blob/main/Stock_Price_Pre
 
 <hr>
 
-# Task 2 - Titanic Classification
-## Problem Statement : To make a system that tells whether a Person will be saved from Sinking or not.
-### About the dataset:
-Titanic is one of history's most infamous shipwrecks. The Titanic sank on April 15, 1912, during her maiden voyage, after colliding with an iceberg, killing 1502 of the 2224 passengers and crew. This shocking tragedy shocked the international community and resulted in stricter ship safety regulations. While survival required some luck, it appears that some groups of people were more likely to survive than others. In this challenge, we must create a predictive model that answers the question "what types of people were more likely to survive?" using passenger data (such as name, age, gender, socioeconomic class, and so on).
+# TASK 3 - Number Recognition
+## Problem Statement: Handwritten Digit Recognition Using  MNIST Dataset with the Help of Neural Network.
+### About Dataset:
+The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning. It contains 60,000 training images and 10,000 testing images. Each image is a 28x28 pixel grayscale image of a handwritten digit from 0 to 9. The images have been size-normalized and centered in a fixed-size image.
 
-The columns in the dataset are as follows:
-* PassengerId: Passenger Identity
-* Survived: Whether passenger survived or not (0 = No, 1 = Yes)
-* Pclass: Class of ticket, a proxy for socio-economic status (SES) (1 = 1st, 2 = 2nd, 3 = 3rd)
-* Name: Name of passenger Sex: Sex of passenger
-* Age: Age of passenger in years
-* SibSp: Number of sibling and/or spouse travelling with passenger
-* Parch: Number of parent and/or children travelling with passenger
-* Ticket: Ticket number Fare: Price of ticket
-* Cabin: Cabin number
-* Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+The MNIST dataset is a popular dataset for machine learning because it is relatively simple to understand and implement. The dataset is also large enough to train a variety of machine learning models, and it is diverse enough to capture the different ways that people write digits.
 
-Dataset: https://www.kaggle.com/datasets/rahulsah06/titanic   <br>
-Solution: 
+The MNIST dataset can be used to train a variety of machine learning models, such as:
+* Supervised learning models, such as support vector machines (SVMs) and decision trees.
+* Unsupervised learning models, such as k-means clustering and principal component analysis (PCA).
+* Deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
+
+The MNIST dataset has been used to develop a variety of applications, such as:
+
+* Handwritten digit recognition systems.
+* Fraud detection systems.
+* Image classification systems.
+* Natural language processing systems.
+
+The MNIST dataset is a valuable resource for researchers and practitioners in the field of machine learning. It is a simple, yet effective dataset for training and testing machine learning models
+
+Solution: https://github.com/Premrufus/BharatIntenRepo/blob/main/Number_Recognition.ipynb

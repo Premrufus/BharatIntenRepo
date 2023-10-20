@@ -54,5 +54,5 @@ The MNIST dataset has been used to develop a variety of applications, such as:
 
 The MNIST dataset is a valuable resource for researchers and practitioners in the field of machine learning. It is a simple, yet effective dataset for training and testing machine learning models
 
-Dataset: Imported from Tensorflow package and Keras API 
+Dataset: *Imported from Tensorflow package and Keras API*  <br>
 Solution: https://github.com/Premrufus/BharatIntenRepo/blob/main/Number_Recognition.ipynb
